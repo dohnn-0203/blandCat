@@ -7,6 +7,7 @@ This project includes 3D models created using **Blender** and converted for use 
 - **.unitypackage**: Package file converted for use in Unity
 
 ## 🖼️ Preview
+![File Image](files.png)
 ![Cat Image](catImag.png)
 
 ## 🛠️ Creation Process
